@@ -22,8 +22,7 @@ Masaüstü rehber programına şifre ekranı ile başlıyoruz. Kullanıcı adı 
 <h1></h1>
 
 
-<img width="295" alt="REHBER PROGRAMI GİRİŞ ŞİFRE EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/2947659c-cb1e-42f7-b465-0ec0fa0738be">
-  
+
 
 
 "Kullanıcı adınız..." kısmını silerek Kullanıcı adı sekmesine "admin", şifre sekmesine de "123" girip programın çalışmasını başlatabilirsiniz.
