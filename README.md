@@ -12,10 +12,9 @@ Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24Lwri
 
 <h1></h1>
 
+<h1 style="color:red; font-family:Times New Roman; font-size:55pt"> Rehber Programı Şifre Giriş Ekranı </h1>
 
-<img width="295" alt="REHBER PROGRAMI GİRİŞ ŞİFRE EKRANI" 
-  
-src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/a94562d7-e833-4a99-b81d-597e6a14aa1f">
+<img width="295" alt="REHBER PROGRAMI GİRİŞ ŞİFRE EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/a94562d7-e833-4a99-b81d-597e6a14aa1f">
   
 
 
