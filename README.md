@@ -24,9 +24,6 @@ Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
 <h1></h1>
 
-![1_sifre ekrani](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/404f57e7-96e9-4464-9a87-86df9c64e8cc)
-
-
 
 
 
