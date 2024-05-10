@@ -71,3 +71,11 @@ Kayıt Arama ekranında aranacak kaydın ismi girilerek bilgileri ekrana getiril
 <h1></h1>
 
 
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/722d03ea-75fc-4511-ab17-9507471bef3d">
+
+
+Kayıt Listele ekranında mevcut tüm kayıtlar ad, soyad ve telefon numaraları gösterilerek listelenir.
+
+<h1></h1>
+
+
