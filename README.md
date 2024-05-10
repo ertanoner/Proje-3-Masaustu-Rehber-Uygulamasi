@@ -40,7 +40,7 @@ Rehber anamenüsünden yapmayı istediğiniz işlemi seçiniz.
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/31210295-bc24-4c91-8b70-f31c949a142a">
 
 
-Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. 
+Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. İlk kaydı girmeden kaydet tuşuna basılırsa veya ilk kayıt girilmeden çıkılrsa program kendini kapatacaktır.
 
 <h1></h1>
 
