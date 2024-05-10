@@ -7,7 +7,7 @@
 
 EXE dosyası indirme linki  https://drive.google.com/file/d/1fNCwBwUVgBrqMgj9AdtmmaH8ya47nkMR/view?usp=sharing                
 
-Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24LwriqzdHS5vPqN/view?usp=share_link 
+Proje Anlatım Videosu      https://drive.google.com/file/d/1yYt_wlrqAnwFjhZcRGqFH-URS78D7MkQ/view?usp=sharing
 
 
 <h1></h1>
