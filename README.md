@@ -66,6 +66,8 @@ Kayıt Listele ekranında mevcut tüm kayıtlar ad, soyad ve telefon numaraları
 
 Kayıt Arama ekranında aranacak kaydın ismi girilerek bilgileri ekrana getirilir. Aynı isimden birden fazla kayıt var ise hepsi listelenir.
 
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/21d3999c-fef7-4613-8289-c98674fa6cdd">
+
 <h1></h1>
 
 
