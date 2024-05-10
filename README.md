@@ -40,9 +40,19 @@ Rehber anamenüsünden yapmayı istediğiniz işlemi seçiniz.
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/31210295-bc24-4c91-8b70-f31c949a142a">
 
 
-Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, lbu dosyadan silinir veya değiştirilir.
+Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, bu dosyadan silinir veya değiştirilir.
 
 <h1></h1>
+
+
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/f95953a3-9fcd-4032-800d-4bdcd2a83786">
+
+
+Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, bu dosyadan silinir veya değiştirilir.
+
+<h1></h1>
+
+
 
 
 
