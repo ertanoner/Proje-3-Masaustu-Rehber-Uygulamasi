@@ -13,11 +13,11 @@ Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24Lwri
 <h1></h1>
 
 
-<img width="295" alt="REHBER PROGRAMI ANA MENÜSÜ" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/a94562d7-e833-4a99-b81d-597e6a14aa1f">
+<img width="295" alt="REHBER PROGRAMI GİRİŞ ŞİFRE EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/a94562d7-e833-4a99-b81d-597e6a14aa1f">
   
 
 
-Proje Ana Menüsünde ilgili uygulamaları seçiniz.
+Masaüstü rehber programına şifre ekranı ile başlıyoruz. Kullanıcı adı "admin", şifre is "123" tür.
 
 <h1></h1>
 
