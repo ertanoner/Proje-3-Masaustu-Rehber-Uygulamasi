@@ -38,6 +38,7 @@ Rehber anamenüsünden yapmayı istediğiniz işlemi seçiniz.
 
 <h1></h1>
 
+Kayıt Ekleme EWkranı
 
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/31210295-bc24-4c91-8b70-f31c949a142a">
 
@@ -45,7 +46,6 @@ Rehber anamenüsünden yapmayı istediğiniz işlemi seçiniz.
 Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerini girip "Kaydet" tuşuna basılınca kayıt gerçekleşiyor. İlk kaydı girmeden kaydet tuşuna basılırsa veya ilk kayıt girilmeden çarpı işareti ile çıkılrsa program kendini kapatacaktır.
 
 <h1></h1>
-
 
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/f95953a3-9fcd-4032-800d-4bdcd2a83786">
 
