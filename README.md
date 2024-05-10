@@ -13,7 +13,9 @@ Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24Lwri
 <h1></h1>
 
 
-<img width="305" alt="PROJE ANA MENÜ" src="![1_sifre ekrani](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/3ac96660-6c27-4322-872f-c0c1897d0bb3)">
+<img width="305" alt="REHBER UYGULAMASI ANA MENÜSÜ" 
+  
+src="![1_sifre ekrani](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/3ac96660-6c27-4322-872f-c0c1897d0bb3)">
 
 Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
