@@ -9,23 +9,11 @@ EXE dosyası indirme linki  https://drive.google.com/file/d/1ZYcwIy6IJM5pmjlLbrT
 
 Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24LwriqzdHS5vPqN/view?usp=share_link 
 
-<h1></h1>
-
-<img width="305" alt="PROJE ANA MENÜ" src="![1_sifre ekrani](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/404f57e7-96e9-4464-9a87-86df9c64e8cc)">
-
-Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
 <h1></h1>
 
 
 <img width="305" alt="PROJE ANA MENÜ" src="![1_sifre ekrani](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/3ac96660-6c27-4322-872f-c0c1897d0bb3)">
-
-Proje Ana Menüsünde ilgili uygulamaları seçiniz.
-
-<h1></h1>
-
-
-
 
 Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
