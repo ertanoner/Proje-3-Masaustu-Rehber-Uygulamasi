@@ -5,7 +5,7 @@
 
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
-# 3. PROJE Masaüstü Rehber Uygulaması                  
+                 
 
 Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24LwriqzdHS5vPqN/view?usp=share_link 
 
