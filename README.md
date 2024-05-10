@@ -48,10 +48,17 @@ Kayıt ekleme ekran görüntüsüdür. Ad, soyad ve telefon numarası bilgilerin
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/f95953a3-9fcd-4032-800d-4bdcd2a83786">
 
 
-İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, bu dosyadan silinir veya değiştirilir.
+İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, bu dosyadan silinir veya değiştirilir. Her yeni kayıt girildiğinde anamenü ye dönüş yapılır.
 
 <h1></h1>
 
+
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="">
+
+
+İlk kayıt bilgileri kaydedilirken "rehber3.db" isimli bir rehber veri tabanı oluşturulur. Sonraki tüm rehber işlemleri bu dosya üzerine kaydedilir, bu dosyadan silinir veya değiştirilir. Her yeni kayıt girildiğinde anamenü ye dönüş yapılır.
+
+<h1></h1>
 
 
 
