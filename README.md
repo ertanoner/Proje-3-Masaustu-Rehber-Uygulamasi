@@ -5,7 +5,7 @@
 
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
-EXE dosyası indirme linki  https://drive.google.com/file/d/1ZYcwIy6IJM5pmjlLbrTiLXk2MDx6T9G-/view?usp=sharing                 
+EXE dosyası indirme linki  https://drive.google.com/file/d/1fNCwBwUVgBrqMgj9AdtmmaH8ya47nkMR/view?usp=sharing                
 
 Proje Anlatım Videosu   https://drive.google.com/file/d/1mlmuj2S2rX75b0YB24LwriqzdHS5vPqN/view?usp=share_link 
 
