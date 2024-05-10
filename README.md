@@ -85,4 +85,11 @@ Kaydı silinecek kişinin ismi yazılıp verileri ekrana getirilir. Aynı isimde
 
 <h1></h1>
 
+Kayıt Düzeltme Ekranı
+
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/7aabf3a1-8d7c-403d-8a2d-6067fc4b6d37">
+
+
+Kayıt Düzeltme ekranında verileri düzeltilecek kişinin ismi yazılarak verileri çağrılır. Aynı isimde birden fazla kişi varsa tümü listelenir, kişiye özel id numarası ile verileri düzeltilecek kişi seçilir. Yeni Ad, soyad ve telefon numarası verileri girilir. Eğer verilerden sadece biri değişecekse yine de tüm verileri tekrar girilmesi gerekecektir.
+
 
