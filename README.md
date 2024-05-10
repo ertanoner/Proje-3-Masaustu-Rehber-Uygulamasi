@@ -1,2 +1,2 @@
-# Proje-3-Masaustu-Rehber-Uygulamasi
+# Proje-3 Masaüstü Rehber Uygulaması
 Masaüstü Rehber Uygulamasi
