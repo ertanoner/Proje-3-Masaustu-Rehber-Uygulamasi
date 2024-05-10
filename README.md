@@ -74,11 +74,14 @@ Kayıt Arama ekranında aranacak kaydın ismi girilerek bilgileri ekrana getiril
 
 <h1></h1>
 
+Kayıt Silme Ekranı
 
 <img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/722d03ea-75fc-4511-ab17-9507471bef3d">
 
 
-Kayıt Listele ekranında mevcut tüm kayıtlar ad, soyad ve telefon numaraları gösterilerek listelenir.
+Kaydı silinecek kişinin ismi yazılıp verileri ekrana getirilir. Aynı isimde birden fazla kişi varsa tümü listelenir, kişiye özel id numarası da listelemede bulunur. Aynı isimden silinecek doğru kişinin id numarası girilip sil butonuna basılır.
+
+<img width="295" alt="REHBER PROGRAMI ANAMENÜ EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/2c4ac10f-3215-435a-b227-2052f4a657b6">
 
 <h1></h1>
 
