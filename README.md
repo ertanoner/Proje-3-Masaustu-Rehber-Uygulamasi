@@ -1,5 +1,5 @@
 
-<h1 style="color:red; font-family:Times New Roman; font-size:77pt"> Masaüstü Rehber Uygulamasi </h1>
+<h1 style="color:red; font-family:Times New Roman; font-size:77pt"> 3.PROJE Masaüstü Rehber Uygulamasi </h1>
 
 <h1>Ertan ÖNER </h1>
 
