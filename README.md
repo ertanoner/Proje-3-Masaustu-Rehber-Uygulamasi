@@ -22,23 +22,14 @@ Masaüstü rehber programına şifre ekranı ile başlıyoruz. Kullanıcı adı 
 <h1></h1>
 
 
+<img width="295" alt="REHBER PROGRAMI GİRİŞ ŞİFRE EKRANI" src="https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/2947659c-cb1e-42f7-b465-0ec0fa0738be">
+  
 
 
-1.HESAP MAKİNESİ
+Masaüstü rehber programına şifre ekranı ile başlıyoruz. Kullanıcı adı "admin", şifre is "123" tür.
 
-<img width="295" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje1-Console/assets/161921025/e0164938-4759-42b1-9ef5-06a9973551b0">
-
-Hesap Makinesi Menüsünden yapılması istenen işlemi seçiniz.
-
-<h1> </h1>
-
-2. YAŞ HESABI
-
-<img width="221" alt="2 Yaş Hesabı" src="https://github.com/ertanoner/Proje1-Console/assets/161921025/9092a7df-d87e-40c0-abec-59d59052935c">
-
-Yaş hesabı işleminde önce isminizi giriyorsunuz, sonra doğum yılınızı soruyor. Doğum yılınıza 2024 yılından çıkarıp yaşınızı hesap ediyor.
-
-<h1> </h1>
+<h1></h1>
 
 
 
+![2_sifre girilmis ekran](https://github.com/ertanoner/Proje-3-Masaustu-Rehber-Uygulamasi/assets/161921025/2947659c-cb1e-42f7-b465-0ec0fa0738be)
